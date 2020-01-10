@@ -14,6 +14,10 @@ public class SecondClass {
 
     }
 
+    public int divides(int a, int b) {
+        return a / b;
+    }
+
     public int subReturn(int a, int b) {
         return a - b;
     }
